@@ -1,0 +1,5 @@
+#This one was challenging to come back to, but after reviewing the lectures and my overall knowledge that I gained with writing code I was able to finally complete this. 
+
+
+#I created a script that looped through all of the stock data in order to account for yearly change, total change, and total stock volume
+#After this, I found the stocks with the greatest change and created a column to show for this
